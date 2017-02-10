@@ -47,3 +47,14 @@ Transaction rate:	     1707.94 trans/sec
 Throughput:		        2.49 MB/sec
 Concurrency:		       97.71
 
+## grails 3.1.15 + Interceptor
+Transactions:		       20000 hits
+Availability:		      100.00 %
+Elapsed time:		       11.96 secs
+Data transferred:	       29.18 MB
+Response time:		        0.06 secs
+Transaction rate:	     1672.24 trans/sec
+Throughput:		        2.44 MB/sec
+Concurrency:		       96.49
+
+
