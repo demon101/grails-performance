@@ -21,31 +21,21 @@ Shortest transaction:	        0.00
 
 ## Grails 3.1.15
 
-Transactions:		       20000 hits
-Availability:		      100.00 %
-Elapsed time:		       11.28 secs
-Data transferred:	       29.18 MB
-Response time:		        0.06 secs
-Transaction rate:	     1773.05 trans/sec
-Throughput:		        2.59 MB/sec
-Concurrency:		       98.40
-Successful transactions:       20000
-Failed transactions:	           0
-Longest transaction:	        0.29
-Shortest transaction:	        0.00
+> Transactions:		       20000 hits
+> Availability:		      100.00 %
+> Elapsed time:		       12.51 secs
+> Data transferred:	       29.18 MB
+> Transaction rate:	     1598.72 trans/sec
+> Throughput:		        2.33 MB/sec
+> Concurrency:		       96.71
 
 ## grails 3.1.15 + groovy 2.4.8
 
-Transactions:		       20000 hits
+> Transactions:		       20000 hits
 Availability:		      100.00 %
-Elapsed time:		       12.78 secs
+Elapsed time:		       11.71 secs
 Data transferred:	       29.18 MB
-Response time:		        0.06 secs
-Transaction rate:	     1564.95 trans/sec
-Throughput:		        2.28 MB/sec
-Concurrency:		       98.27
-Successful transactions:       20000
-Failed transactions:	           0
-Longest transaction:	        1.08
-Shortest transaction:	        0.00
+Transaction rate:	     1707.94 trans/sec
+Throughput:		        2.49 MB/sec
+Concurrency:		       97.71
 
