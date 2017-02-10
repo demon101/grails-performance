@@ -23,6 +23,7 @@ Shortest transaction:	        0.00
 
 > Transactions:		       20000 hits
 > Availability:		      100.00 %
+
 > Elapsed time:		       12.51 secs
 > Data transferred:	       29.18 MB
 > Transaction rate:	     1598.72 trans/sec
