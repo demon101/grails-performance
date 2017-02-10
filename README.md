@@ -3,6 +3,8 @@
 https://github.com/grails/grails-core/issues/640
 
 siege -c 100 -b -r 200  http://localhost:8080/index/index/1
+siege -c 100 -b -r 200  http://localhost:8080/grails2/index/index/1
+
 
 ## Grails 3.2.6:
 
