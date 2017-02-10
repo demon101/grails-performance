@@ -29,17 +29,17 @@ Concurrency:		       97.89
 
 ## Grails 3.1.15
 
-> Transactions:		       20000 hits
-> Availability:		      100.00 %
-> Elapsed time:		       12.51 secs
-> Data transferred:	       29.18 MB
-> Transaction rate:	     1598.72 trans/sec
-> Throughput:		        2.33 MB/sec
-> Concurrency:		       96.71
+Transactions:		       20000 hits
+Availability:		      100.00 %
+Elapsed time:		       12.51 secs
+Data transferred:	       29.18 MB
+Transaction rate:	     1598.72 trans/sec
+Throughput:		        2.33 MB/sec
+Concurrency:		       96.71
 
 ## grails 3.1.15 + groovy 2.4.8
 
-> Transactions:		       20000 hits
+Transactions:		       20000 hits
 Availability:		      100.00 %
 Elapsed time:		       11.71 secs
 Data transferred:	       29.18 MB
