@@ -67,4 +67,14 @@ Transaction rate:	     1657.00 trans/sec
 Throughput:		        2.42 MB/sec
 Concurrency:		       97.29
 
+## grails 2.4.5 + java 8.121
+Transactions:		       20000 hits
+Availability:		      100.00 %
+Elapsed time:		        8.67 secs
+Data transferred:	       16.59 MB
+Response time:		        0.04 secs
+Transaction rate:	     2306.81 trans/sec
+Throughput:		        1.91 MB/sec
+Concurrency:		       96.01
+
 
